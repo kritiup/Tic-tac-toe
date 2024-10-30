@@ -1,1 +1,1 @@
-# Tic-tac-toe
+This is a two-player tic-tac-toe game developed using HTML, CSS, and JavaScript. In this interactive game, two players can take turns to mark their moves on a 3x3 grid, aiming to complete a row, column, or diagonal for the win. The game logic is implemented in JavaScript, managing each player’s moves, checking for win conditions, and providing feedback. This project showcases basic front-end skills and JavaScript programming, allowing users to experience classic tic-tac-toe in a browser-based format.
